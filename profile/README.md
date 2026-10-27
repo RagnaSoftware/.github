@@ -15,25 +15,35 @@
 
 <table>
   <tr>
-    <td width="25%" valign="top">
+    <td width="50%" valign="top">
       <img src="assets/icons/privacy.svg" width="44" height="44" alt="">
-      <h4>Privatsphäre zuerst</h4>
-      Kein Tracking. Was sensibel ist, wird lokal auf deinem Gerät verschlüsselt.
+      <h3>Deine Daten bleiben deine</h3>
+      Kein Tracking. Was sensibel ist, wird direkt auf deinem Gerät verschlüsselt – bevor es irgendwohin geht.
+      <br><br>
+      <sub><b>Zum Beispiel:</b> RagnaVault ist Zero-Knowledge. Dein Master-Passwort verlässt nie dein Gerät.</sub>
     </td>
-    <td width="25%" valign="top">
+    <td width="50%" valign="top">
       <img src="assets/icons/independent.svg" width="44" height="44" alt="">
-      <h4>Eigenständig</h4>
-      Eigenständige Apps ohne Lock-in – du bist nicht an uns gefesselt.
+      <h3>Unabhängig, ohne Lock-in</h3>
+      Eigenständige Apps, die nicht von einer Cloud abhängen. Du entscheidest, wo deine Daten liegen.
+      <br><br>
+      <sub><b>Zum Beispiel:</b> RagnaVault läuft komplett offline – Konto und Sync sind freiwillig.</sub>
     </td>
-    <td width="25%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <img src="assets/icons/account.svg" width="44" height="44" alt="">
-      <h4>Ein Konto</h4>
-      Ein RagnaSoftware-Konto für alle Produkte. Wo es geht, bleibt es optional.
+      <h3>Ein Konto für alles</h3>
+      Ein RagnaSoftware-Konto für alle Produkte statt einem Login pro App. Wo es geht, bleibt es optional.
+      <br><br>
+      <sub><b>Zum Beispiel:</b> Einmal registrieren, in allen verbundenen Apps anmelden.</sub>
     </td>
-    <td width="25%" valign="top">
+    <td width="50%" valign="top">
       <img src="assets/icons/speed.svg" width="44" height="44" alt="">
-      <h4>Schnell &amp; schlank</h4>
-      Native Desktop-Apps statt schwerfälliger Web-Oberflächen.
+      <h3>Schnell und schlank</h3>
+      Native Desktop-Apps, die sofort starten und kaum Ressourcen brauchen – statt schwerfälliger Web-Oberflächen.
+      <br><br>
+      <sub><b>Zum Beispiel:</b> Der RagnaVault-Installer ist kleiner als 2 MB.</sub>
     </td>
   </tr>
 </table>
@@ -50,7 +60,7 @@
       <a href="https://github.com/RagnaSoftware/RagnaVault"><img src="assets/ragnavault-screenshot.png" alt="RagnaVault"></a>
     </td>
     <td valign="top">
-      <h3><img src="assets/ragnavault-icon.png" width="34" height="34" align="top" alt="">&nbsp;RagnaVault&nbsp;<img alt="neu" src="https://img.shields.io/badge/neu-FD2347?style=flat-square" align="absmiddle"></h3>
+      <h3><img src="assets/ragnavault-icon-title.png" width="34" height="44" align="absmiddle" alt="">&nbsp;RagnaVault&nbsp;<img alt="neu" src="https://img.shields.io/badge/neu-FD2347?style=flat-square" align="absmiddle"></h3>
       Passwort-Manager und 2FA-Authenticator für Windows.
       <ul>
         <li>Zero-Knowledge – verschlüsselt mit Argon2id und XChaCha20-Poly1305</li>
