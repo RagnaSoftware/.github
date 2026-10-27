@@ -16,19 +16,23 @@
 <table>
   <tr>
     <td width="25%" valign="top">
-      <h4>🔒 Privatsphäre zuerst</h4>
+      <img src="assets/icons/privacy.svg" width="44" height="44" alt="">
+      <h4>Privatsphäre zuerst</h4>
       Kein Tracking. Was sensibel ist, wird lokal auf deinem Gerät verschlüsselt.
     </td>
     <td width="25%" valign="top">
-      <h4>🧭 Eigenständig</h4>
+      <img src="assets/icons/independent.svg" width="44" height="44" alt="">
+      <h4>Eigenständig</h4>
       Eigenständige Apps ohne Lock-in – du bist nicht an uns gefesselt.
     </td>
     <td width="25%" valign="top">
-      <h4>🔑 Ein Konto</h4>
+      <img src="assets/icons/account.svg" width="44" height="44" alt="">
+      <h4>Ein Konto</h4>
       Ein RagnaSoftware-Konto für alle Produkte. Wo es geht, bleibt es optional.
     </td>
     <td width="25%" valign="top">
-      <h4>⚡ Schnell &amp; schlank</h4>
+      <img src="assets/icons/speed.svg" width="44" height="44" alt="">
+      <h4>Schnell &amp; schlank</h4>
       Native Desktop-Apps statt schwerfälliger Web-Oberflächen.
     </td>
   </tr>
@@ -55,7 +59,7 @@
         <li>Mehrere Tresore, Notfall-Passwort, Sicherheitsbericht</li>
         <li>Open Source auf GitHub · Rust + Tauri</li>
       </ul>
-      <a href="https://github.com/RagnaSoftware/RagnaVault/releases/latest"><b>⬇ Herunterladen</b></a> ·
+      <a href="https://github.com/RagnaSoftware/RagnaVault/releases/latest"><img src="assets/icons/download.svg" width="14" height="14" alt=""> <b>Herunterladen</b></a> ·
       <a href="https://github.com/RagnaSoftware/RagnaVault">Quellcode</a> ·
       <a href="https://ragnasoftware.net/ragnavault/">Produktseite</a>
     </td>
@@ -115,7 +119,7 @@ Mit einem **RagnaSoftware-Konto** meldest du dich bei allen Produkten an. Bei Ra
 |---|---|---|
 | [**RagnaVault**](https://github.com/RagnaSoftware/RagnaVault) | Passwort-Manager und 2FA-Authenticator | Rust · Tauri 2 · Argon2id · XChaCha20-Poly1305 |
 
-Weitere Projekte folgen. ⭐ Ein Stern hilft uns, sichtbarer zu werden.
+Weitere Projekte folgen. Ein Stern auf GitHub hilft uns, sichtbarer zu werden.
 
 ## Fehler und Sicherheitslücken melden
 
