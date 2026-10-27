@@ -1,45 +1,132 @@
-<h1 align="center">RagnaSoftware</h1>
-
 <p align="center">
-  <b>Eigenständige Software. Ein Konto.</b><br>
-  Native, schnelle Desktop-Apps, die deine Daten respektieren – ohne Tracking, ohne Lock-in.
+  <a href="https://ragnasoftware.net"><img src="assets/banner.png" alt="RagnaSoftware – Eigenständige Software. Ein Konto." width="100%"></a>
 </p>
 
 <p align="center">
-  <a href="https://ragnasoftware.net">Website</a> ·
-  <a href="https://ragnasoftware.net/download/">Download</a> ·
-  <a href="https://ragnasoftware.net/devtools/">DevTools</a> ·
-  <a href="https://ragnasoftware.net/lizenz/">Lizenz</a>
+  <a href="https://ragnasoftware.net"><img alt="Website" src="https://img.shields.io/badge/Website-ragnasoftware.net-FD2347?style=for-the-badge"></a>
+  <a href="https://ragnasoftware.net/download/"><img alt="Download" src="https://img.shields.io/badge/Download-alle%20Apps-1f1f24?style=for-the-badge"></a>
+  <a href="https://ragnasoftware.net/devtools/"><img alt="DevTools" src="https://img.shields.io/badge/DevTools-f%C3%BCr%20Entwickler-1f1f24?style=for-the-badge"></a>
+  <a href="mailto:kontakt@ragnasoftware.net"><img alt="Kontakt" src="https://img.shields.io/badge/Kontakt-E--Mail-1f1f24?style=for-the-badge"></a>
 </p>
 
----
+## Wer wir sind
 
-### Open Source auf GitHub
+**RagnaSoftware** ist ein unabhängiges Software-Projekt. Wir bauen schnelle Desktop-Apps, die deine Daten respektieren – **ohne Tracking und ohne Lock-in** – und verbinden sie über **ein einziges RagnaSoftware-Konto**. Sensible Daten werden auf deinem Gerät verschlüsselt.
 
 <table>
   <tr>
-    <td width="72" align="center"><img src="assets/ragnavault-icon.png" width="56" alt=""></td>
-    <td>
-      <b><a href="https://github.com/RagnaSoftware/RagnaVault">RagnaVault</a></b> – Passwort-Manager und 2FA-Authenticator für Windows.<br>
-      Zero-Knowledge, lokal verschlüsselt mit Argon2id und XChaCha20-Poly1305, mehrere Tresore, Notfall-Passwort.<br>
-      <a href="https://github.com/RagnaSoftware/RagnaVault/releases/latest">Neueste Version herunterladen</a> · Rust + Tauri
+    <td width="25%" valign="top">
+      <h4>🔒 Privatsphäre zuerst</h4>
+      Kein Tracking. Was sensibel ist, wird lokal auf deinem Gerät verschlüsselt.
+    </td>
+    <td width="25%" valign="top">
+      <h4>🧭 Eigenständig</h4>
+      Eigenständige Apps ohne Lock-in – du bist nicht an uns gefesselt.
+    </td>
+    <td width="25%" valign="top">
+      <h4>🔑 Ein Konto</h4>
+      Ein RagnaSoftware-Konto für alle Produkte. Wo es geht, bleibt es optional.
+    </td>
+    <td width="25%" valign="top">
+      <h4>⚡ Schnell &amp; schlank</h4>
+      Native Desktop-Apps statt schwerfälliger Web-Oberflächen.
     </td>
   </tr>
 </table>
 
-### Alle Produkte
+---
 
-| Produkt | | |
+## Produkte
+
+### Produktivität &amp; Sicherheit
+
+<table>
+  <tr>
+    <td width="46%" valign="top">
+      <a href="https://github.com/RagnaSoftware/RagnaVault"><img src="assets/ragnavault-screenshot.png" alt="RagnaVault"></a>
+    </td>
+    <td valign="top">
+      <img src="assets/ragnavault-icon.png" width="40" align="left" alt="">
+      <h3>&nbsp;RagnaVault <img alt="neu" src="https://img.shields.io/badge/neu-FD2347?style=flat-square"></h3>
+      Passwort-Manager und 2FA-Authenticator für Windows.
+      <ul>
+        <li>Zero-Knowledge – verschlüsselt mit Argon2id und XChaCha20-Poly1305</li>
+        <li>Logins, sichere Notizen und 2FA-Codes (TOTP) in einem Tresor</li>
+        <li>Mehrere Tresore, Notfall-Passwort, Sicherheitsbericht</li>
+        <li>Open Source auf GitHub · Rust + Tauri</li>
+      </ul>
+      <a href="https://github.com/RagnaSoftware/RagnaVault/releases/latest"><b>⬇ Herunterladen</b></a> ·
+      <a href="https://github.com/RagnaSoftware/RagnaVault">Quellcode</a> ·
+      <a href="https://ragnasoftware.net/ragnavault/">Produktseite</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="200"><a href="https://ragnasoftware.net/ragnaide/"><b>RagnaIDE</b></a><br><img alt="neu" src="https://img.shields.io/badge/neu-FD2347?style=flat-square"></td>
+    <td>Entwicklungsumgebung, die Editor, Terminal und einen Claude-Agenten in einem Fenster vereint. · <a href="https://ragnasoftware.net/ragnaide/doku/">Dokumentation</a></td>
+  </tr>
+</table>
+
+### Gaming
+
+<table>
+  <tr>
+    <td width="200"><a href="https://clip.xn--ragnark-f1a.eu/"><b>RagnaClip</b></a><br><img alt="verfügbar" src="https://img.shields.io/badge/verf%C3%BCgbar-2ea043?style=flat-square"></td>
+    <td>Puffert Gameplay im Hintergrund – ein Tastendruck speichert den Moment, den du bearbeiten und per Link teilen kannst.</td>
+  </tr>
+  <tr>
+    <td><a href="https://ragnasoftware.net/pacifista/"><b>Pacifista</b></a><br><img alt="verfügbar" src="https://img.shields.io/badge/verf%C3%BCgbar-2ea043?style=flat-square"></td>
+    <td>Minecraft-Client für 1.21.x mit frei platzierbarem HUD, programmierbaren Hotkeys, Wegpunkten und eigenen Menüs.</td>
+  </tr>
+  <tr>
+    <td><a href="https://ragnasoftware.net/ragnaloader/"><b>RagnaLoader</b></a><br><img alt="in Entwicklung" src="https://img.shields.io/badge/in%20Entwicklung-6e7681?style=flat-square"></td>
+    <td>Multi-Game-Mod-Manager für Windows im Thunderstore-Stil, mit Profilen pro Spiel.</td>
+  </tr>
+</table>
+
+<sub>Minecraft-bezogene Produkte sind keine offiziellen Minecraft-Produkte und nicht von Mojang oder Microsoft genehmigt.</sub>
+
+### Für Entwickler
+
+<table>
+  <tr>
+    <td width="200"><a href="https://ragnasoftware.net/devtools/ragnaweave/"><b>RagnaWeave</b></a><br><img alt="verfügbar" src="https://img.shields.io/badge/verf%C3%BCgbar-2ea043?style=flat-square"></td>
+    <td>Gradle-Plugin für Minecraft-Mods: Die Annotation <code>@OffThread</code> verlagert schwere Arbeit auf Worker-Threads.</td>
+  </tr>
+  <tr>
+    <td><b>Maven-Repository</b></td>
+    <td>Unsere Bibliotheken unter <a href="https://ragnasoftware.net/maven">ragnasoftware.net/maven</a> · Überblick und Anleitungen in den <a href="https://ragnasoftware.net/devtools/">DevTools</a></td>
+  </tr>
+</table>
+
+---
+
+## Ein Konto für alles
+
+Mit einem **RagnaSoftware-Konto** meldest du dich bei allen Produkten an. Bei RagnaVault bestimmt das Konto nur, *wohin* synchronisiert wird – entschlüsselt wird immer lokal auf deinem Gerät.
+
+[Konto erstellen](https://ragnasoftware.net/register/) · [Anmelden](https://ragnasoftware.net/login/) · [Mein Konto](https://ragnasoftware.net/account/)
+
+## Open Source
+
+| Repository | Beschreibung | Technik |
 |---|---|---|
-| [**RagnaIDE**](https://ragnasoftware.net/ragnaide/) | neu | Editor, Terminal und Claude-Agent in einem Fenster |
-| [**RagnaVault**](https://ragnasoftware.net/ragnavault/) | neu | Passwort-Manager und 2FA-Authenticator mit Zero-Knowledge |
-| [**RagnaClip**](https://clip.xn--ragnark-f1a.eu/) | verfügbar | Puffert Gameplay im Hintergrund – ein Tastendruck speichert den Moment |
-| [**Pacifista**](https://ragnasoftware.net/pacifista/) | verfügbar | Minecraft-1.21.x-Client mit frei platzierbarem HUD, Hotkeys und Wegpunkten |
-| [**RagnaLoader**](https://ragnasoftware.net/ragnaloader/) | in Entwicklung | Multi-Game-Mod-Manager für Windows mit Profilen pro Spiel |
-| [**RagnaWeave**](https://ragnasoftware.net/devtools/ragnaweave/) | verfügbar | Gradle-Plugin für Minecraft-Mods – `@OffThread` verlagert schwere Arbeit auf Worker-Threads |
+| [**RagnaVault**](https://github.com/RagnaSoftware/RagnaVault) | Passwort-Manager und 2FA-Authenticator | Rust · Tauri 2 · Argon2id · XChaCha20-Poly1305 |
 
-### Kontakt
+Weitere Projekte folgen. ⭐ Ein Stern hilft uns, sichtbarer zu werden.
 
-Fragen, Feedback oder eine Sicherheitslücke gefunden? Schreib an **kontakt@ragnasoftware.net**.
+## Fehler und Sicherheitslücken melden
 
-<sub>Nutzung der Produkte unter der <a href="https://ragnasoftware.net/lizenz/">RagnaSoftware Generallizenz</a>.</sub>
+Fehler bitte als Issue im jeweiligen Repository melden. **Sicherheitslücken bitte nicht öffentlich**, sondern per E-Mail an **kontakt@ragnasoftware.net**.
+
+## Lizenz
+
+Unsere Produkte stehen unter der **[RagnaSoftware Generallizenz](https://ragnasoftware.net/lizenz/)**. Private, nicht-kommerzielle Nutzung ist erlaubt; für kommerzielle Nutzung brauchst du vorher unsere Erlaubnis. Eigene Inhalte wie Clips und Streams darfst du veröffentlichen und monetarisieren.
+
+---
+
+<p align="center">
+  <sub>© 2026 RagnaSoftware · <a href="https://ragnasoftware.net">ragnasoftware.net</a> · <a href="mailto:kontakt@ragnasoftware.net">kontakt@ragnasoftware.net</a></sub>
+</p>
