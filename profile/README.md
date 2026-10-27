@@ -11,7 +11,7 @@
 
 ## Wer wir sind
 
-**RagnaSoftware** ist ein unabhängiges Software-Projekt. Wir bauen schnelle Desktop-Apps, die deine Daten respektieren – **ohne Tracking und ohne Lock-in** – und verbinden sie über **ein einziges RagnaSoftware-Konto**. Sensible Daten werden auf deinem Gerät verschlüsselt.
+**RagnaSoftware** ist ein unabhängiges Software-Projekt. Wir bauen schnelle Desktop-Apps, die deine Daten respektieren – **ohne Tracking und ohne Lock-in** – und verbinden sie über **ein einziges Konto: RagnaID**. Sensible Daten werden auf deinem Gerät verschlüsselt.
 
 <table>
   <tr>
@@ -34,9 +34,9 @@
     <td width="50%" valign="top">
       <img src="assets/icons/account.svg" width="44" height="44" alt="">
       <h3>Ein Konto für alles</h3>
-      Ein RagnaSoftware-Konto für alle Produkte statt einem Login pro App. Wo es geht, bleibt es optional.
+      Eine RagnaID für alle Produkte statt einem Login pro App. Wo es geht, bleibt sie optional.
       <br><br>
-      <sub><b>Zum Beispiel:</b> Einmal registrieren, in allen verbundenen Apps anmelden.</sub>
+      <sub><b>Zum Beispiel:</b> RagnaVault und RagnaClip nutzen dieselbe RagnaID – einmal registrieren genügt.</sub>
     </td>
     <td width="50%" valign="top">
       <img src="assets/icons/speed.svg" width="44" height="44" alt="">
@@ -60,7 +60,7 @@
       <a href="https://github.com/RagnaSoftware/RagnaVault"><img src="assets/ragnavault-screenshot.png" alt="RagnaVault"></a>
     </td>
     <td valign="top">
-      <h3><img src="assets/ragnavault-icon-title.png" width="34" height="44" align="absmiddle" alt="">&nbsp;RagnaVault&nbsp;<img alt="neu" src="https://img.shields.io/badge/neu-FD2347?style=flat-square" align="absmiddle"></h3>
+      <h3><img src="assets/ragnavault-icon-title.png" width="34" height="38" align="absmiddle" alt="">&nbsp;RagnaVault&nbsp;<img alt="neu" src="https://img.shields.io/badge/neu-FD2347?style=flat-square" align="absmiddle"></h3>
       Passwort-Manager und 2FA-Authenticator für Windows.
       <ul>
         <li>Zero-Knowledge – verschlüsselt mit Argon2id und XChaCha20-Poly1305</li>
@@ -116,11 +116,11 @@
 
 ---
 
-## Ein Konto für alles
+## RagnaID – ein Konto für alles
 
-Mit einem **RagnaSoftware-Konto** meldest du dich bei allen Produkten an. Bei RagnaVault bestimmt das Konto nur, *wohin* synchronisiert wird – entschlüsselt wird immer lokal auf deinem Gerät.
+Mit deiner **RagnaID** meldest du dich bei allen Produkten an – etwa bei RagnaVault und RagnaClip. Bei RagnaVault bestimmt die RagnaID nur, *wohin* synchronisiert wird – entschlüsselt wird immer lokal auf deinem Gerät.
 
-[Konto erstellen](https://ragnasoftware.net/register/) · [Anmelden](https://ragnasoftware.net/login/) · [Mein Konto](https://ragnasoftware.net/account/)
+[RagnaID erstellen](https://ragnasoftware.net/register/) · [Anmelden](https://ragnasoftware.net/login/) · [Mein Konto](https://ragnasoftware.net/account/)
 
 ## Open Source
 
