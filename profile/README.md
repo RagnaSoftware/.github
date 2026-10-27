@@ -50,8 +50,7 @@
       <a href="https://github.com/RagnaSoftware/RagnaVault"><img src="assets/ragnavault-screenshot.png" alt="RagnaVault"></a>
     </td>
     <td valign="top">
-      <img src="assets/ragnavault-icon.png" width="40" align="left" alt="">
-      <h3>&nbsp;RagnaVault <img alt="neu" src="https://img.shields.io/badge/neu-FD2347?style=flat-square"></h3>
+      <h3><img src="assets/ragnavault-icon.png" width="34" height="34" align="absmiddle" alt="">&nbsp;RagnaVault&nbsp;<img alt="neu" src="https://img.shields.io/badge/neu-FD2347?style=flat-square" align="absmiddle"></h3>
       Passwort-Manager und 2FA-Authenticator für Windows.
       <ul>
         <li>Zero-Knowledge – verschlüsselt mit Argon2id und XChaCha20-Poly1305</li>
